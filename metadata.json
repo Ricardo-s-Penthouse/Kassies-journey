@@ -1,0 +1,6 @@
+{
+  "name": "The Her Effect — Glow-Up System & Masterclass Academy",
+  "description": "A luxury glow-up system featuring biological diagnostics, personalized daily rituals across skin, hair, body, mindset, and image, plus an evidence-based masterclass academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
